@@ -518,8 +518,8 @@ textarea{
 /******************** footer*/
 footer {
     width: 100%;
-    color: var(--color-neutral-40);
-    background-color: #151515;
+    
+    background-color: #6d755e;
 }
 .logofooter{
     width: 30px;
@@ -530,7 +530,7 @@ footer {
 }
 
 #footer_content {
-    background-color: var(--color-neutral-10);
+   
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     padding: 3rem 3.5rem;
