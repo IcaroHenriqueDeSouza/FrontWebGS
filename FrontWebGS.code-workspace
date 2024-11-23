@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "FrontWebGS",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "../Frontend-GS/landing-page-pre/assets/js"
+		},
+		{
+			"name": "font",
+			"path": "../../../Nova pasta/frontendGS/frontendGS-1/font"
+		},
+		{
+			"name": "fonts",
+			"path": "../Frontend-GS/landing-page-pre/assets/fonts"
+		},
+		{
+			"name": "images",
+			"path": "../../../Nova pasta/frontendGS/frontendGS-1/images"
+		},
+		{
+			"name": "css",
+			"path": "../Frontend-GS/landing-page-pre/assets/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FrontWebGS",
+		"liveServer.settings.port": 5501
+	}
+}
